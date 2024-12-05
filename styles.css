@@ -2,7 +2,7 @@
 
 
 body{
-    background-color: limegreen;
+    background-color:  #242423;
 }
 
 /* header sytles */
@@ -18,7 +18,7 @@ header {
 /* section one flex grow and shrink */
 
 .section-one {
-    background-color: blueviolet;
+    background-color: #c19ab7;
     
     
 }
@@ -37,7 +37,7 @@ header {
 
 .box2 {
 
-    background-color: lightgreen;
+    background-color: #242423;
     
     height: 200px;
     flex: 2 -1 auto;
@@ -55,7 +55,7 @@ header {
 /* section 2 center item */
 
 .section-two {
-    background-color: orangered;
+    background-color: #9c95dc;
     height: 700px;
     display: flex;
     align-items: center;
@@ -66,7 +66,7 @@ header {
 /* section 3 youtube video */
 
 .section-three {
-    background-color: lightcoral;
+    background-color: #228cdb;
     height: 800px;
     display: flex;
     align-items: center;
@@ -83,7 +83,7 @@ iframe {
 /* section 4 embed audio */
 
 .section-four {
-    background-color: darkslateblue;
+    background-color: #0b7189;
     height: 500px;
     display: flex;
     align-items: center;
@@ -102,7 +102,7 @@ iframe {
 /* section 5 media items */
 
 .section-five {
-    background-color: goldenrod;
+    background-color: #170a1c;
     height: 1400px;
 
 }
